@@ -1,2 +1,0 @@
-# husala-gateways
-Husala-gateways
