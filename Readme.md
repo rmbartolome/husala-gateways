@@ -13,7 +13,7 @@ Build Restful CRUD API for a simple crud gateways application using Spring Boot,
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/rmbartolome/husala-gateways.git
+git clone https://github.com/rmbartolome/musala-gateways.git
 ```
 **2. Build and run the app using maven**
 
