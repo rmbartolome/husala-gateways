@@ -1,4 +1,4 @@
-# Spring Boot, JPA, Hibernate Rest API Example for husala
+# Spring Boot, JPA, Hibernate Rest API Example for Musala
 
 Build Restful CRUD API for a simple crud gateways application using Spring Boot, JPA and Hibernate.
 
